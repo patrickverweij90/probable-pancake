@@ -19,34 +19,34 @@ height: 250px;
 
 /* table */
 table,th,td{
-  border:2px solid black;
+  border:5px solid black;
   }
-
   table{
     border-collapse:collapse;
-    width:100%;
+    width:150px;
+    height:150px;
     color:black;
   }
   td{
     height:30px;
   }
-  #orange{
+  .orange{
     background-color: orange;
     color: purple;
   }
-  #red{
+  .red{
     background-color: red;
     color: orange;
   }
-  #blue{
+  .blue{
     background-color: blue;
     color: red;
   }
-  #yellow{
+  .yellow{
     background-color: yellow;
     color:blue;
   }
-  #purple{
+  .purple{
     background-color: purple;
     color: yellow
   }
